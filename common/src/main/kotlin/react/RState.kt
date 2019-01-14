@@ -1,0 +1,3 @@
+package react
+
+interface RState
